@@ -23,7 +23,7 @@ Then run the script, providing the name of this file with names and URLs:
 ```
 
 ## Acknowledgements
-Based on:
-* https://gist.github.com/alexeygrigorev/a1bc540925054b71e1a7268e50ad55cd
-* https://gist.github.com/brasno/25fe2d30a31b40fe98cc9f55cfb709ab
-* https://github.com/AbCthings/vimeo-audio-video
+Based on work of:
+* @alexeygrigorev: https://gist.github.com/alexeygrigorev/a1bc540925054b71e1a7268e50ad55cd
+* @brasno: https://gist.github.com/brasno/25fe2d30a31b40fe98cc9f55cfb709ab
+* @AbCthings: https://github.com/AbCthings/vimeo-audio-video
